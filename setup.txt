@@ -1,10 +1,16 @@
 setup CRUD sneakers laravel 9 by sebastian velez
 
-1-> Poner el folder llamado "CRUD" en la ruta C:\xampp\htdocs
+1-> Poner el folder llamado "LaravelCrud" en la ruta C:\xampp\htdocs
 
-2-> Crear la base de datos llamada "crud" en PhpMyAdmin.
+2-> Correr el comando "composer install" en la terminal del proyecto.
 
-3-> Correr el comando "php artisan migrate" en la terminal del proyecto.
+3-> Cambiar el nombre de la base de datos en .env por "crud"
+
+4-> Crear la base de datos llamada "crud" en PhpMyAdmin.
+
+5-> Correr el comando "php artisan migrate" en la terminal del proyecto.
+
+6-> Correr el comando "php artisan serve" en la terminal del proyecto.
 
 4-> La ruta principal es "/"
 
